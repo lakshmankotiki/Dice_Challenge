@@ -1,1 +1,1 @@
-alert("Hello Lakshman!")
+Math.round((Math.random() * 6) + 1);
